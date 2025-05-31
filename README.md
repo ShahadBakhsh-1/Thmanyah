@@ -86,4 +86,5 @@ This repository contains an in-depth exploratory data analysis (EDA) of podcast 
 
 ## License
 
-This analysis and report are shared for educational and strategic planning purposes. For commercial usage or further research collaboration, please contact the author.
+This analysis and accompanying report are provided solely for educational, interview, and portfolio purposes.
+All content remains the intellectual property of the author and is not intended for commercial use or distribution.
