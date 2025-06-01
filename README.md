@@ -14,7 +14,7 @@ This repository contains an in-depth exploratory data analysis (EDA) of podcast 
 |-------------------------------------|-------------|
 | `podcast_full_analysis-3.ipynb`     | Full analysis notebook with visualizations and code |
 | `Podcast Listening Behavior Key Insights and Actionable Recommendations.pdf` | Executive summary report with insights and recommendations |
-| `users.csv`, `episodes.csv`, `listens.json` | Input datasets (assumed for the notebook) |
+| `users.csv`, `episodes.csv`, `listens.json` | Input datasets (for the notebook) |
 
 ## Data Preprocessing
 
